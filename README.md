@@ -4,7 +4,7 @@ The AI agents leverage Large Language Models (LLMs) for their language understan
 
 ---
 
-![Image](https://github.com/user-attachments/assets/580fa77e-53ae-421f-bf08-1d366b63f30b)
+![Image](https://github.com/user-attachments/assets/b3345c0e-5af8-482e-b8d3-6b5da801d1ab)
 
 * **N8N** for workflow automation in domain exploration and dataset discovery.
 * **AG2 (Autogen)**: Agentic framework to automate the data mining process.
@@ -17,8 +17,8 @@ Autocrisp is built following the principles of a foundational framework for data
 
 ---
 
-![Image](https://github.com/user-attachments/assets/55535a1c-1505-4b97-8780-d1ce1656b4b7)
-![Image](https://github.com/user-attachments/assets/872de1c7-e3fb-49e0-a6cb-865864f713fa)
+![Image](https://github.com/user-attachments/assets/808576cc-c009-4d05-8818-796b1358fc1e)
+![Image](https://github.com/user-attachments/assets/6ca75997-8db6-4b87-bb40-71685817d802)
 
 ### Integration of Technologies
 
@@ -26,8 +26,8 @@ Autocrisp is utilizing N8N for its business understanding capabilities by connec
 
 ---
 
-![Image](https://github.com/user-attachments/assets/1ab10c9f-f6c5-4dc3-85b4-0a3729eccf85)
-![image](https://github.com/user-attachments/assets/5f908cfd-bd4b-48ff-92ac-2036ddc39f04)
+![Image](https://github.com/user-attachments/assets/a7f5bae7-9175-4c41-b90c-17dd8c3edb20)
+![Image](https://github.com/user-attachments/assets/83e0f309-842a-4049-9f0a-ab07d3928c2c)
 
 The remaining phases data understanding, data preparation, modeling, and evaluation are supported by agents built on the Autogen (AG2) framework. These agents handle tasks such as:
 
